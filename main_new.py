@@ -10,7 +10,7 @@ import webbrowser
 # ============================================================ 全局常量
 WIN_WIDTH = 720
 WIN_HEIGHT = 450
-VERSION = "3.3"
+VERSION = "4.0"
 INI_LIST_CSV_NAME = 'ini_list.csv'
 RES_DIR = Path(__file__).parent / 'res'
 ICON_PATH = RES_DIR / 'icon.ico'
